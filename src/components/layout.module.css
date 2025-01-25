@@ -1,0 +1,29 @@
+.container {
+  background-color: #f1f1f1;
+  color: #333333;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+.heading {
+  color: rebeccapurple !important;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+.nav-link-item {
+  padding-right: 2rem;
+}
+.nav-link-text {
+  color: blue;
+  padding-bottom: 3px;
+  border-bottom: 1px solid blue;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  background: #dddddd;
+}
